@@ -84,14 +84,13 @@ async def huhh(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "‹ ᯓ𓆩˹ • ألِٰـِۢبِٰـِۢيِٰـِۢر ˼𓆪𓆃 ›", url=f"https://t.me/O7_05"), 
+                        "‹ : 𝗗𝗘𝗩 𝐀𝑳𝐁𝐄𝐀𝐑 : ›", url=f"https://t.me/O7_05"), 
                  ],[
                     InlineKeyboardButton(
-                        "ᯓ𓆩˹ • ألِٰـِۢبِٰـِۢيِٰـِۢر ˼𓆪𓆃", url=f"https://t.me/VIP_ALBEAR_Bot"
-"),
+                        "‹ :بوت ᯓ𓆩˹ • ألِٰـِۢبِٰـِۢيِٰـِۢر ˼𓆪𓆃: ›", url=f"https://t.me/VIP_ALBEAR_Bot"),
                 ],[
                     InlineKeyboardButton(
-                        "‹ : ᯓ𓆩˹ • ألِٰـِۢبِٰـِۢيِٰـِۢر ˼𓆪𓆃 : ›", url=f"https://t.me/VIP_ALBEAR"),
+                        "‹ : 𝗦𝗢𝗨𝗥𝗖𝗘 𝗔𝗹𝗯𝗲𝗮𝗿 : ›", url=f"https://t.me/VIP_ALBEAR"),
                 ],
 
             ]
@@ -99,6 +98,7 @@ async def huhh(client: Client, message: Message):
         ),
 
     )
+
 
 @app.on_message(command(["تخ"]) & filters.group)
 async def huhh(client, message):
