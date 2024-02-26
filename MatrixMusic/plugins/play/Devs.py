@@ -87,7 +87,8 @@ async def huhh(client: Client, message: Message):
                         "‹ ᯓ𓆩˹ • ألِٰـِۢبِٰـِۢيِٰـِۢر ˼𓆪𓆃 ›", url=f"https://t.me/O7_05"), 
                  ],[
                     InlineKeyboardButton(
-                        "‹ : 𝗗𝗘𝗩  : ›", url=f"https://t.me/O7_05"),
+                        "ᯓ𓆩˹ • ألِٰـِۢبِٰـِۢيِٰـِۢر ˼𓆪𓆃", url=f"https://t.me/VIP_ALBEAR_Bot
+"),
                 ],[
                     InlineKeyboardButton(
                         "‹ : ᯓ𓆩˹ • ألِٰـِۢبِٰـِۢيِٰـِۢر ˼𓆪𓆃 : ›", url=f"https://t.me/VIP_ALBEAR"),
